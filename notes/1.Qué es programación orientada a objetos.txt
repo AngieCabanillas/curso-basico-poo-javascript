@@ -1,0 +1,17 @@
+paradigmas: formas, caminos, indicaciones o lineamientos que podemos seguir para programar nuestras aplicaciones.
+
+tipos:
+*estructurado
+*orientado a objetos
+*funcional
+
+POO(orden)
+-atributos 
+-metodos -> funciones que guardamos dentro del objeto para actualizar de forma segura la info que habiamos guardado en los atributos del objeto
+
+VENTAJAS
+-orden
+-reutilizar codigo
+
+***javascript esta basado en prototipos
+

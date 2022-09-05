@@ -1,0 +1,18 @@
+objetos literales no son instancias
+estos objetos literales no son lo mismo que los 'objetos' de la poo
+
+lenguajes que aceptan el paradigma de la POO 
+-php
+-python
+
+
+**si vemos el proto del objeto literal(const ...)
+vemos muchos metodos que no han sido creados que pueden ser usados por ese objeto
+
+en los objetos, la instancia no solo tiene los metodos del prototipo, sino tambien los metodos del prototipo object
+
+OBJETOS:
+-objetos literales
+-arraysss
+-instancias de prototipos
+-prototipo object
