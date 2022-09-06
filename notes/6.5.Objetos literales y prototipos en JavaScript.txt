@@ -1,0 +1,3 @@
+CLASES
+-son una manera mas amigable para trabajar con prototipos
+-las clases por dentro son prototipos(sintaxis parecida)
