@@ -1,0 +1,4 @@
+*no es escalable usar objetos literales
+-------------------
+variable:variable; es lo mismo que variable;
+----------------------------
